@@ -229,7 +229,7 @@ const TOOLS_PLATFORMS = [
   { name: 'AWS', icon: 'https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png' },
   { name: 'Azure', icon: 'https://brandlogos.net/wp-content/uploads/2022/07/microsoft_azure-logo_brandlogos.net_mlyt6-512x512.png' },
   { name: 'VMware', icon: 'https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png' },
-  { name: 'VirtualBox', icon: 'https://cdn2.steamgriddb.com/icon/87be5ae9f0116699ffd129e5988dcd0b/32/1024x1024.png' },
+  { name: 'VirtualBox', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1280px-VirtualBox_2024_Logo.svg.png' },
   { name: 'Ubuntu Linux', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg' },
   { name: 'GitHub', icon: 'https://static.vecteezy.com/system/resources/thumbnails/046/437/248/small_2x/github-logo-transparent-background-free-png.png' },
   { name: 'Git', icon: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' },
